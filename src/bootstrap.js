@@ -1,6 +1,6 @@
 window["APP_TEMPLATE_BOOTSTRAP"] = {
     firebase: {
-      apiKey: "AIzaSyDfuDJVBILAyGjRHe11C7uNOG6Zzlk-t3M",
+      apiKey: "XXXXXXXX",
       authDomain: "sample-firebase-ai-app-5318e.firebaseapp.com",
       projectId: "sample-firebase-ai-app-5318e",
       storageBucket: "sample-firebase-ai-app-5318e.firebasestorage.app",
@@ -9,5 +9,5 @@ window["APP_TEMPLATE_BOOTSTRAP"] = {
     },
     
     
-    geminiApiKey: "AIzaSyA89lS6doj5zLVoS3ASotILh4cfTgNUJgM"
+    geminiApiKey: "XXXXXXXX"
     };
